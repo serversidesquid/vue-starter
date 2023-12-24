@@ -4,16 +4,16 @@ This template should help get you started developing with Vue 3 in Vite. Also in
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) with the following extensions:
+[VS Code](https://code.visualstudio.com/) with the following extensions:
 
 - [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## Customize configuration
+### Opinionated VS Code Settings
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This repository includes a `.vscode/settings.json` file which ensures code formatting is kept consistent. It does this by enabling "format on save", "fix all on save" and ensuring `Prettier` is set as the formatter.
 
 ## Project Setup
 
