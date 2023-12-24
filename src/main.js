@@ -21,7 +21,7 @@ library.add(fab)
 const app = createApp(App)
 
 /* add font-awesome-icon component globally */
-app.component('font-awesome-icon', FontAwesomeIcon)
+app.component('FontAwesomeIcon', FontAwesomeIcon)
 
 app.use(router)
 app.mount('#app')

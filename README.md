@@ -1,10 +1,15 @@
 # vue3-starter
 
-This template should help get you started developing with Vue 3 in Vite. Also includes Vue Router, Tailwind, and FontAwesome 6.
+This template should help get you started developing with Vue 3 in Vite. Also includes Vue Router, Tailwind, FontAwesome 6 and ESLint with Prettier.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [Tailwind IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss).
+[VSCode](https://code.visualstudio.com/) with the following extensions:
+
+- [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Customize configuration
 

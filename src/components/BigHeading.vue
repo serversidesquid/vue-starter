@@ -2,12 +2,12 @@
 defineProps({
   text: {
     type: String,
-    required: true
+    required: true,
   },
   icon: {
     type: String,
     required: false,
-    default: null
+    default: null,
   },
 })
 </script>
@@ -19,6 +19,4 @@ defineProps({
   </h2>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
